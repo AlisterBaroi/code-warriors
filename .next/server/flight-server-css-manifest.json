@@ -1,31 +1,35 @@
 {
   "__entry_css_mods__": {
-    "G:\\startup-nextjs-main\\app\\signin\\page": [
-      "G:\\startup-nextjs-main\\node_modules\\react-modal-video\\css\\modal-video.css",
-      "G:\\startup-nextjs-main\\styles\\index.css"
+    "C:\\Users\\danis\\code-warriors\\app\\signup\\page": [
+      "C:\\Users\\danis\\code-warriors\\node_modules\\react-modal-video\\css\\modal-video.css",
+      "C:\\Users\\danis\\code-warriors\\styles\\index.css"
     ],
-    "G:\\startup-nextjs-main\\app\\page": [
-      "G:\\startup-nextjs-main\\node_modules\\react-modal-video\\css\\modal-video.css",
-      "G:\\startup-nextjs-main\\styles\\index.css"
+    "C:\\Users\\danis\\code-warriors\\app\\page": [
+      "C:\\Users\\danis\\code-warriors\\node_modules\\react-modal-video\\css\\modal-video.css",
+      "C:\\Users\\danis\\code-warriors\\styles\\index.css"
     ],
-    "G:\\startup-nextjs-main\\app\\about\\page": [
-      "G:\\startup-nextjs-main\\node_modules\\react-modal-video\\css\\modal-video.css",
-      "G:\\startup-nextjs-main\\styles\\index.css"
+    "C:\\Users\\danis\\code-warriors\\app\\about\\page": [
+      "C:\\Users\\danis\\code-warriors\\node_modules\\react-modal-video\\css\\modal-video.css",
+      "C:\\Users\\danis\\code-warriors\\styles\\index.css"
     ],
-    "G:\\startup-nextjs-main\\app\\blog\\page": [
-      "G:\\startup-nextjs-main\\node_modules\\react-modal-video\\css\\modal-video.css",
-      "G:\\startup-nextjs-main\\styles\\index.css"
+    "C:\\Users\\danis\\code-warriors\\app\\signin\\page": [
+      "C:\\Users\\danis\\code-warriors\\node_modules\\react-modal-video\\css\\modal-video.css",
+      "C:\\Users\\danis\\code-warriors\\styles\\index.css"
     ],
-    "G:\\startup-nextjs-main\\app\\contact\\page": [
-      "G:\\startup-nextjs-main\\node_modules\\react-modal-video\\css\\modal-video.css",
-      "G:\\startup-nextjs-main\\styles\\index.css"
+    "C:\\Users\\danis\\code-warriors\\app\\blog\\page": [
+      "C:\\Users\\danis\\code-warriors\\node_modules\\react-modal-video\\css\\modal-video.css",
+      "C:\\Users\\danis\\code-warriors\\styles\\index.css"
+    ],
+    "C:\\Users\\danis\\code-warriors\\app\\contact\\page": [
+      "C:\\Users\\danis\\code-warriors\\node_modules\\react-modal-video\\css\\modal-video.css",
+      "C:\\Users\\danis\\code-warriors\\styles\\index.css"
     ]
   },
-  "G:\\startup-nextjs-main\\app\\layout.tsx": [
-    "G:\\startup-nextjs-main\\node_modules\\react-modal-video\\css\\modal-video.css",
-    "G:\\startup-nextjs-main\\styles\\index.css"
+  "C:\\Users\\danis\\code-warriors\\app\\layout.tsx": [
+    "C:\\Users\\danis\\code-warriors\\node_modules\\react-modal-video\\css\\modal-video.css",
+    "C:\\Users\\danis\\code-warriors\\styles\\index.css"
   ],
-  "G:\\startup-nextjs-main\\app\\page.tsx": [
-    "G:\\startup-nextjs-main\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+  "C:\\Users\\danis\\code-warriors\\app\\page.tsx": [
+    "C:\\Users\\danis\\code-warriors\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
   ]
 }
