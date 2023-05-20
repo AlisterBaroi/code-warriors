@@ -83,7 +83,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -91,7 +91,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -99,7 +99,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       }
@@ -109,7 +109,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -117,7 +117,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -125,7 +125,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/blog/page:app/blog/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       }
@@ -263,14 +263,14 @@ self.__RSC_MANIFEST={
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "G:\\startup-nextjs-main\\app\\layout": [
+    "C:\\Users\\danis\\code-warriors\\app\\layout": [
       "static/css/app/layout.css"
     ],
-    "G:\\startup-nextjs-main\\app\\page": [
+    "C:\\Users\\danis\\code-warriors\\app\\page": [
       "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_tsx_import_Inter_arguments-2f8da4.css"
     ]
   },
-  "G:\\startup-nextjs-main\\components\\Common\\ScrollUp.tsx": {
+  "C:\\Users\\danis\\code-warriors\\components\\Common\\ScrollUp.tsx": {
     "": {
       "id": "(app-client)/./components/Common/ScrollUp.tsx",
       "name": "",
@@ -296,7 +296,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\components\\Pricing\\index.tsx": {
+  "C:\\Users\\danis\\code-warriors\\components\\Pricing\\index.tsx": {
     "": {
       "id": "(app-client)/./components/Pricing/index.tsx",
       "name": "",
@@ -322,7 +322,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\components\\Video\\index.tsx": {
+  "C:\\Users\\danis\\code-warriors\\components\\Video\\index.tsx": {
     "": {
       "id": "(app-client)/./components/Video/index.tsx",
       "name": "",
@@ -348,12 +348,12 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\node_modules\\next\\dist\\client\\image.js": {
+  "C:\\Users\\danis\\code-warriors\\node_modules\\next\\dist\\client\\image.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -361,7 +361,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -369,17 +369,17 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\node_modules\\next\\dist\\client\\link.js": {
+  "C:\\Users\\danis\\code-warriors\\node_modules\\next\\dist\\client\\link.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -387,7 +387,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -395,12 +395,12 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/blog/page:app/blog/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\node_modules\\react-modal-video\\css\\modal-video.css": {
+  "C:\\Users\\danis\\code-warriors\\node_modules\\react-modal-video\\css\\modal-video.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -409,7 +409,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "G:\\startup-nextjs-main\\styles\\index.css": {
+  "C:\\Users\\danis\\code-warriors\\styles\\index.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -418,7 +418,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "G:\\startup-nextjs-main\\app\\layout.tsx": {
+  "C:\\Users\\danis\\code-warriors\\app\\layout.tsx": {
     "": {
       "id": "(app-client)/./app/layout.tsx",
       "name": "",
@@ -444,7 +444,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+  "C:\\Users\\danis\\code-warriors\\node_modules\\next\\dist\\client\\components\\app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -470,7 +470,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+  "C:\\Users\\danis\\code-warriors\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -496,7 +496,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+  "C:\\Users\\danis\\code-warriors\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -522,7 +522,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+  "C:\\Users\\danis\\code-warriors\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -548,7 +548,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "G:\\startup-nextjs-main\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+  "C:\\Users\\danis\\code-warriors\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
     "default": {
       "id": "null",
       "name": "default",
